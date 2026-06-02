@@ -30,8 +30,8 @@ Minha principal linguagem é o **C#**, utilizando-o tanto para o desenvolvimento
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Merketz&show_icons=true&theme=dark" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merketz&layout=compact&theme=dark" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Merketz&show_icons=true&theme=dark&cache_bust=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merketz&layout=compact&theme=dark&cache_bust=true" height="150" alt="Linguagens mais usadas" />
 </p>
 
 ---
