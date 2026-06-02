@@ -1,4 +1,4 @@
-# Olá, sou o Marco Antonio Rodrigues 🕹️
+# Olá, sou o Marco Antonio Rodrigues 
 
 Estudante de **Engenharia de Software (4º Semestre)** no UniCEUB, focado em **Desenvolvimento de Jogos** e arquitetura de software.
 
@@ -6,7 +6,7 @@ Minha principal linguagem é o **C#**, utilizando-o tanto para o desenvolvimento
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+###  Tecnologias & Ferramentas
 
 **Game Development:**
 - **Godot Engine** (Foco principal / C#)
@@ -19,7 +19,7 @@ Minha principal linguagem é o **C#**, utilizando-o tanto para o desenvolvimento
 
 ---
 
-### 🚀 O que tenho feito
+###  O que tenho feito
 
 - Desenvolvimento de jogos autorais e protótipos na **Godot**.
 - Integração de arquitetura limpa em C# voltada para scripts de jogos.
@@ -27,7 +27,7 @@ Minha principal linguagem é o **C#**, utilizando-o tanto para o desenvolvimento
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Merketz&show_icons=true&theme=dark" height="150" alt="Estatísticas do GitHub" />
